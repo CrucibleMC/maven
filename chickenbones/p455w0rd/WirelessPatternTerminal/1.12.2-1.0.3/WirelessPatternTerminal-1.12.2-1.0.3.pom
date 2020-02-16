@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>p455w0rd</groupId>
+  <artifactId>WirelessPatternTerminal</artifactId>
+  <version>1.12.2-1.0.3</version>
+  <name>WirelessPatternTerminal</name>
+  <description>WirelessPatternTerminal</description>
+  <url>https://github.com/p455w0rd/WirelessPatternTerminal</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>TheRealp455w0rd</id>
+      <name>Mike Balser</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/p455w0rd/WirelessPatternTerminal.git</connection>
+    <developerConnection>scm:git:git@github.com:p455w0rd/WirelessPatternTerminal.git</developerConnection>
+    <url>https://github.com/p455w0rd/WirelessPatternTerminal</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/p455w0rd/WirelessPatternTerminal/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>mezz.jei</groupId>
+      <artifactId>jei_1.12.2</artifactId>
+      <version>4.14.3.238</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

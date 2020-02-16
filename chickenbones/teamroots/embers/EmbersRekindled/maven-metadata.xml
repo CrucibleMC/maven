@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>teamroots.embers</groupId>
+  <artifactId>EmbersRekindled</artifactId>
+  <versioning>
+    <release>1.13</release>
+    <versions>
+      <version>1.8test</version>
+      <version>1.9</version>
+      <version>1.9hotfix2</version>
+      <version>1.9hotfix4</version>
+      <version>1.13</version>
+    </versions>
+    <lastUpdated>20190330182418</lastUpdated>
+  </versioning>
+</metadata>

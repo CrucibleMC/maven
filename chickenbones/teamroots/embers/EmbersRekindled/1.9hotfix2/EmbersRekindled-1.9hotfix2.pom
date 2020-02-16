@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>teamroots.embers</groupId>
+  <artifactId>EmbersRekindled</artifactId>
+  <version>1.9hotfix2</version>
+  <dependencies>
+    <dependency>
+      <groupId>CraftTweaker2</groupId>
+      <artifactId>CraftTweaker2-MC1120-Main</artifactId>
+      <version>1.12-4.1.8.476</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>mezz.jei</groupId>
+      <artifactId>jei_1.12.2</artifactId>
+      <version>4.8.3.128</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.azanor.baubles</groupId>
+      <artifactId>Baubles</artifactId>
+      <version>1.12-1.5.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
