@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.benf</groupId>
+  <artifactId>cfr</artifactId>
+  <version>0_125</version>
+  <versioning>
+    <latest>0_125</latest>
+    <release>0_125</release>
+    <versions>
+      <version>0_125</version>
+    </versions>
+  </versioning>
+</metadata>

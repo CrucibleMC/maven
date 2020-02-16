@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.covers1624</groupId>
+  <artifactId>ForcedDeobfuscator</artifactId>
+  <version>1.12-1.0.0.3</version>
+  <name>ForcedDeobfuscator</name>
+  <description>ForcedDeobfuscator</description>
+  <url>https://github.com/covers1624/ForcedDeobfuscator</url>
+  <licenses>
+    <license>
+      <name>All Rights Reserved.</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>covers1624</id>
+      <name>covers1624</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/covers1624/ForcedDeobfuscator.git</connection>
+    <developerConnection>scm:git:git@github.com:covers1624/ForcedDeobfuscator.git</developerConnection>
+    <url>https://github.com/covers1624/ForcedDeobfuscator</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/covers1624/ForcedDeobfuscator/issues</url>
+  </issueManagement>
+</project>
