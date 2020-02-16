@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>codechicken</groupId>
+  <artifactId>CodeChickenCore</artifactId>
+  <version>1.10.2-2.3.3.86</version>
+  <name>CodeChickenCore</name>
+  <description>CodeChickenCore</description>
+  <url>https://github.com/TheCBProject/CodeChickenCore</url>
+  <licenses>
+    <license>
+      <name>License</name>
+      <url>https://raw.githubusercontent.com/TheCBProject/CodeChickenCore/master/LICENSE.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>chicken-bones</id>
+      <name>chicken-bones</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:TheCBProject/CodeChickenCore.git</connection>
+    <developerConnection>scm:git:git@github.com:TheCBProject/CodeChickenCore.git</developerConnection>
+    <url>https://github.com/TheCBProject/CodeChickenCore</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/TheCBProject/CodeChickenCore/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>CodeChickenLib</artifactId>
+      <version>1.10.2-2.4.1.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>codechicken</groupId>
+  <artifactId>ForgeMultipart</artifactId>
+  <version>1.10.2-2.0.0.19</version>
+  <name>ForgeMultipart</name>
+  <description>ForgeMultipart</description>
+  <url>https://github.com/TheCBProject/ForgeMultipart</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser Public License (GPL), Version 2.1</name>
+      <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>chicken-bones</id>
+      <name>chicken-bones</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:TheCBProject/ForgeMultipart.git</connection>
+    <developerConnection>scm:git:git@github.com:TheCBProject/ForgeMultipart.git</developerConnection>
+    <url>https://github.com/TheCBProject/ForgeMultipart</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/TheCBProject/ForgeMultipart/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>NotEnoughItems</artifactId>
+      <version>1.10.2-2.1.2.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>CodeChickenLib</artifactId>
+      <version>1.10.2-2.4.3.161</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

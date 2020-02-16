@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>codechicken</groupId>
+  <artifactId>ChickenASM</artifactId>
+  <version>1.12-1.0.1.5</version>
+  <name>ChickenASM</name>
+  <description>ChickenASM</description>
+  <url>https://github.com/TheCBProject/ChickenASM</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser Public License (GPL), Version 2.1</name>
+      <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>chicken-bones</id>
+      <name>chicken-bones</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>covers1624</id>
+      <name>covers1624</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/TheCBProject/ChickenASM.git</connection>
+    <developerConnection>scm:git:git@github.com:TheCBProject/ChickenASM.git</developerConnection>
+    <url>https://github.com/TheCBProject/ChickenASM</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/TheCBProject/ChickenASM/issues</url>
+  </issueManagement>
+</project>

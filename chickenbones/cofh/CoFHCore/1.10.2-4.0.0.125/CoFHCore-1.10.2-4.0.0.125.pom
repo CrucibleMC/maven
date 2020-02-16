@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cofh</groupId>
+  <artifactId>CoFHCore</artifactId>
+  <version>1.10.2-4.0.0.125</version>
+  <name>CoFHCore</name>
+  <description>CoFHCore</description>
+  <url>https://github.com/TheCBProject/CoFHCore</url>
+  <licenses>
+    <license>
+      <name>CoFH Don't Be a Jerk License</name>
+      <url>https://github.com/TheCBProject/CoFHCore/blob/master/README.md</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>TeamCoFH</id>
+      <name>TeamCoFH</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/TheCBProject/CoFHCore.git</connection>
+    <developerConnection>scm:git:git@github.com:TheCBProject/CoFHCore.git</developerConnection>
+    <url>https://github.com/TheCBProject/CoFHCore</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/TheCBProject/CoFHCore/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>CodeChickenLib</artifactId>
+      <version>1.10.2-2.4.3.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>mezz.jei</groupId>
+      <artifactId>jei_1.10.2</artifactId>
+      <version>3.14.7.414</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

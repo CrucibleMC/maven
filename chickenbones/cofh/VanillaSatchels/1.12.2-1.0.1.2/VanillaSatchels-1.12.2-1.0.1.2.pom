@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cofh</groupId>
+  <artifactId>VanillaSatchels</artifactId>
+  <version>1.12.2-1.0.1.2</version>
+  <name>VanillaSatchels</name>
+  <description>VanillaSatchels</description>
+  <url>https://github.com/CoFH/VanillaSatchels</url>
+  <licenses>
+    <license>
+      <name>CoFH Don't Be a Jerk License</name>
+      <url>https://github.com/CoFH/VanillaTools/blob/master/README.md</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>TeamCoFH</id>
+      <name>TeamCoFH</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/CoFH/VanillaSatchels.git</connection>
+    <developerConnection>scm:git:git@github.com:CoFH/VanillaSatchels.git</developerConnection>
+    <url>https://github.com/CoFH/VanillaSatchels</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/CoFH/Feedback/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>cofh</groupId>
+      <artifactId>CoFHCore</artifactId>
+      <version>1.12.2-4.6.0.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cofh</groupId>
+  <artifactId>ThermalFoundation</artifactId>
+  <version>1.10.2-2.0.0.25</version>
+  <name>ThermalFoundation</name>
+  <description>ThermalFoundation</description>
+  <url>https://github.com/TheCBProject/ThermalFoundation</url>
+  <scm>
+    <connection>scm:git:git://github.com/TheCBProject/ThermalFoundation.git</connection>
+    <developerConnection>scm:git:git@github.com:TheCBProject/ThermalFoundation.git</developerConnection>
+    <url>https://github.com/TheCBProject/ThermalFoundation</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/TheCBProject/ThermalFoundation/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>cofh</groupId>
+      <artifactId>CoFHCore</artifactId>
+      <version>1.10.2-4.0.0.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>CodeChickenLib</artifactId>
+      <version>1.10.2-2.5.1.+</version>
+      <classifier>deobf</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
