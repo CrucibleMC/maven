@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mcp.mobius.waila</groupId>
+  <artifactId>Waila</artifactId>
+  <versioning>
+    <release>1.7.1_1.11.2</release>
+    <versions>
+      <version>1.5.2a</version>
+      <version>1.5.3_1.7.10</version>
+      <version>1.5.3a_1.7.10</version>
+      <version>1.5.4_1.7.10</version>
+      <version>1.5.4a_1.7.10</version>
+      <version>1.5.5_1.7.10</version>
+      <version>1.5.6_dev1_1.7.10</version>
+      <version>1.5.6_dev2_1.7.10</version>
+      <version>1.5.6_dev3_1.7.10</version>
+      <version>1.5.6_dev4_1.7.10</version>
+      <version>1.5.6_dev6_1.7.10</version>
+      <version>1.5.6_1.7.10</version>
+      <version>1.5.6a_1.7.10</version>
+      <version>1.5.7_dev1_1.7.10</version>
+      <version>1.5.7_1.7.10</version>
+      <version>1.6.0_B1_1.8.1</version>
+      <version>1.5.7a_1.7.10</version>
+      <version>1.5.8_dev1_1.7.10</version>
+      <version>1.5.8_dev2_1.7.10</version>
+      <version>1.5.8_dev3_1.7.10</version>
+      <version>1.5.8_1.7.10</version>
+      <version>1.5.8a_1.7.10</version>
+      <version>1.5.8b_dev1_1.7.10</version>
+      <version>1.5.9b_dev2_1.7.10</version>
+      <version>1.5.9_dev1_1.7.10</version>
+      <version>1.5.9_1.7.10</version>
+      <version>1.5.10_1.7.10</version>
+      <version>1.5.11-RC1_1.7.10</version>
+      <version>1.5.11-RC2-NONEI_1.7.10</version>
+      <version>1.6.0-B2_1.8.8</version>
+      <version>1.6.0-B2_1.8</version>
+      <version>1.6.0-B3_1.8.8</version>
+      <version>1.7.0-B2_1.9</version>
+      <version>1.7.0-B3_1.9.4</version>
+      <version>1.7.1_1.11.2</version>
+    </versions>
+    <lastUpdated>20170509210243</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mcp.mobius.opis</groupId>
+  <artifactId>Opis</artifactId>
+  <version>1.2.2</version>
+  <versioning>
+    <versions>
+      <version>1.2.2</version>
+      <version>1.2.2a_1.7.10</version>
+      <version>1.2.3_1.7.10</version>
+      <version>1.3.0_dev5_1.7.10</version>
+      <version>1.3.0_dev6_1.7.10</version>
+      <version>1.3.0_dev8_1.7.10</version>
+      <version>1.3.0_dev9_1.7.10</version>
+      <version>1.3.0_dev10_1.7.10</version>
+      <version>1.3.0_dev11_1.7.10</version>
+      <version>1.3.0_dev12_1.7.10</version>
+      <version>1.2.4_1.7.10</version>
+      <version>1.2.5_1.7.10</version>
+    </versions>
+    <lastUpdated>20150402160938</lastUpdated>
+  </versioning>
+</metadata>
