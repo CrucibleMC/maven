@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>mcjty.theoneprobe</groupId>
+  <artifactId>TheOneProbe-1.14</artifactId>
+  <version>1.14-1.4.37-12</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.minecraftforge</groupId>
+      <artifactId>forge</artifactId>
+      <version>1.14.4-28.1.44_mapped_snapshot_20191011-1.14.3_at_f0945e3cd9cfc96a1d7462229a035f78dab1da5d</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.minecraftforge</groupId>
+      <artifactId>forge</artifactId>
+      <version>1.14.4-28.1.44_mapped_snapshot_20191011-1.14.3_at_f0945e3cd9cfc96a1d7462229a035f78dab1da5d</version>
+      <classifier>launcher</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

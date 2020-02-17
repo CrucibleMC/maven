@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>tterrag.customthings</groupId>
+  <artifactId>CustomThings</artifactId>
+  <version>MC1.7.10-0.0.3-49</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.enderio.core</groupId>
+      <artifactId>EnderCore</artifactId>
+      <version>1.7.10-0.2.0.32_beta</version>
+      <classifier>dev</classifier>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.8</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>tterrag.difficultyrecipes</groupId>
+      <artifactId>DifficultyRecipes</artifactId>
+      <version>MC1.7.10-0.1.0-2</version>
+      <classifier>deobf</classifier>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>codechicken</groupId>
+      <artifactId>NotEnoughItems</artifactId>
+      <version>1.7.10-1.0.3.57</version>
+      <classifier>dev</classifier>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

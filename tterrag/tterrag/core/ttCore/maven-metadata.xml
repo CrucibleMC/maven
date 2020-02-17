@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tterrag.core</groupId>
+  <artifactId>ttCore</artifactId>
+  <version>MC1.7.10-0.1.0-54</version>
+  <versioning>
+    <versions>
+      <version>MC1.7.10-0.1.0-54</version>
+      <version>MC1.7.10-0.1.0-55</version>
+      <version>MC1.7.10-0.1.0-56</version>
+      <version>MC1.7.10-0.1.0-57</version>
+      <version>MC1.7.10-0.1.0-58</version>
+      <version>MC1.7.10-0.1.0-59</version>
+      <version>MC1.7.10-0.1.0-60</version>
+      <version>MC1.7.10-0.1.0-61</version>
+      <version>MC1.7.10-0.1.0-62</version>
+      <version>MC1.7.10-0.1.0-63</version>
+      <version>MC1.7.10-0.1.0-64</version>
+      <version>MC1.7.10-0.1.0-65</version>
+      <version>MC1.7.10-0.1.0-66</version>
+      <version>MC1.7.10-0.1.0-67</version>
+      <version>MC1.7.10-0.1.1-68</version>
+      <version>MC1.7.10-0.1.1-69</version>
+      <version>MC1.7.10-0.1.1-70</version>
+      <version>MC1.7.10-0.1.1-71</version>
+      <version>MC1.7.10-0.1.1-72</version>
+      <version>MC1.7.10-0.1.1-73</version>
+      <version>MC1.7.10-0.1.1-74</version>
+      <version>MC1.7.10-0.1.1-75</version>
+      <version>MC1.7.10-0.1.1-76</version>
+      <version>MC1.7.10-0.1.1-77</version>
+      <version>MC1.7.10-0.1.1-78</version>
+    </versions>
+    <lastUpdated>20150626042829</lastUpdated>
+  </versioning>
+</metadata>

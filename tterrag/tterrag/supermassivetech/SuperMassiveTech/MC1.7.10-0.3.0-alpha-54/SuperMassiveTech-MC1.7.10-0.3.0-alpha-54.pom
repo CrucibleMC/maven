@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>tterrag.supermassivetech</groupId>
+  <artifactId>SuperMassiveTech</artifactId>
+  <version>MC1.7.10-0.3.0-alpha-54</version>
+  <dependencies>
+    <dependency>
+      <groupId>tterrag.core</groupId>
+      <artifactId>ttCore</artifactId>
+      <version>MC1.7.10-0.1.0-41</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>mcp.mobius.waila</groupId>
+      <artifactId>Waila</artifactId>
+      <version>1.5.5_1.7.10</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.enderio</groupId>
+      <artifactId>EnderIO</artifactId>
+      <version>1.7.10-2.0.185_beta</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

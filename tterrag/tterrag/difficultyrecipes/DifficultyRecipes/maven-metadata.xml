@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tterrag.difficultyrecipes</groupId>
+  <artifactId>DifficultyRecipes</artifactId>
+  <version>MC1.7.10-0.1.0-1</version>
+  <versioning>
+    <versions>
+      <version>MC1.7.10-0.1.0-1</version>
+      <version>MC1.7.10-0.1.0-2</version>
+      <version>MC1.7.10-0.1.0-3</version>
+    </versions>
+    <lastUpdated>20150726214727</lastUpdated>
+  </versioning>
+</metadata>
