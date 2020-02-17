@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tterrag.registrate</groupId>
+  <artifactId>workspace</artifactId>
+  <versioning>
+    <latest>MC1.14.4-0.0.1.1</latest>
+    <release>MC1.14.4-0.0.1.1</release>
+    <versions>
+      <version>MC1.14.4-0.0.1.1</version>
+    </versions>
+    <lastUpdated>20191123233442</lastUpdated>
+  </versioning>
+</metadata>

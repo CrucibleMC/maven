@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cz.advel.jbullet</groupId>
+  <artifactId>jbullet</artifactId>
+  <versioning>
+    <versions>
+      <version>20101010-2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190814005506</lastUpdated>
+  </versioning>
+</metadata>

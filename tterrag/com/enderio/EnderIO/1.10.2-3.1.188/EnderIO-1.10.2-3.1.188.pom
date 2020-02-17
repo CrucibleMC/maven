@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.enderio</groupId>
+  <artifactId>EnderIO</artifactId>
+  <version>1.10.2-3.1.188</version>
+  <dependencies>
+    <dependency>
+      <groupId>appeng</groupId>
+      <artifactId>appliedenergistics2</artifactId>
+      <version>rv4-alpha-6</version>
+      <classifier>api</classifier>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.darkhax.tesla</groupId>
+      <artifactId>Tesla</artifactId>
+      <version>1.10.2-1.2.1.49</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

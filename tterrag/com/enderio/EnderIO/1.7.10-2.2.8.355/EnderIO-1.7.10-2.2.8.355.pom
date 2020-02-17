@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.enderio</groupId>
+  <artifactId>EnderIO</artifactId>
+  <version>1.7.10-2.2.8.355</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.mod-buildcraft</groupId>
+      <artifactId>buildcraft</artifactId>
+      <version>6.1.5</version>
+      <classifier>api</classifier>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>mcp.mobius.waila</groupId>
+      <artifactId>Waila</artifactId>
+      <version>1.5.8a_1.7.10</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>tterrag.core</groupId>
+      <artifactId>ttCore</artifactId>
+      <version>MC1.7.10-0.1.0-55</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sengir.forestry</groupId>
+      <artifactId>forestry_1.7.10</artifactId>
+      <version>3.3.0.423-unstable</version>
+      <classifier>api</classifier>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>cglib</groupId>
+      <artifactId>cglib-nodep</artifactId>
+      <version>3.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

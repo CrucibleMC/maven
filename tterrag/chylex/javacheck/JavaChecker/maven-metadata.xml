@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>chylex.javacheck</groupId>
+  <artifactId>JavaChecker</artifactId>
+  <versioning>
+    <release>v2.0-b3</release>
+    <versions>
+      <version>unspecified</version>
+      <version>UNIVERSAL--v1.2--b1</version>
+      <version>-v1.2-b1</version>
+      <version>v1.2-b1</version>
+      <version>v1.3-b2</version>
+      <version>v2.0-b3</version>
+    </versions>
+    <lastUpdated>20160110210851</lastUpdated>
+  </versioning>
+</metadata>

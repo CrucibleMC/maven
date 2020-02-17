@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.enderio.core</groupId>
+  <artifactId>EnderCore-1.8</artifactId>
+  <versioning>
+    <release>1.8.9-0.3.0.12-beta</release>
+    <versions>
+      <version>1.8.9-0.3.0.1_beta</version>
+      <version>1.8.9-0.3.0.1-beta</version>
+      <version>1.8.9-0.3.0.2-beta</version>
+      <version>1.8.9-0.3.0.3-beta</version>
+      <version>1.8.9-0.3.0.4-beta</version>
+      <version>1.8.9-0.3.0.5-beta</version>
+      <version>1.8.9-0.3.0.6-beta</version>
+      <version>1.8.9-0.3.0.7-beta</version>
+      <version>1.8.9-0.3.0.8-beta</version>
+      <version>1.8.9-0.3.0.9-beta</version>
+      <version>1.8.9-0.3.0.10-beta</version>
+      <version>1.8.9-0.3.0.11-beta</version>
+      <version>1.8.9-0.3.0.12-beta</version>
+    </versions>
+    <lastUpdated>20160324090221</lastUpdated>
+  </versioning>
+</metadata>
